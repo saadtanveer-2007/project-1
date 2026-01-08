@@ -1,3 +1,3 @@
 # project-1
-This is my first Git Repository
-Saad-Tanveer
+This is my first Git Repository<br>
+Author Saad-Tanveer
